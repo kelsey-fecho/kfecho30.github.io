@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Turning Code into Wine"
-date:       2018-03-27 18:47:00 +0000
+date:       2018-03-27 14:47:01 -0400
 permalink:  turning_code_into_wine
 ---
 
 
 My first portfolio project has arrived! 
 
-![](https://media.giphy.com/media/PTZjY7PZ03xNm/giphy.gif)
+![](https://media.giphy.com/media/s2qXK8wAvkHTO/giphy.gif)
 
 For my CLI Gem project, I built a Ruby gem that scrapes TotalWine.com and returns data about many different wines. Then, it allows users to interact with that data through a CLI app. Users can browse all wines, wines from a particular region, certain types of wine, or even in order of ratings. From there, interested users can be brought to TotalWine.com to purchase the wine about which they've just educated themselves.
 
